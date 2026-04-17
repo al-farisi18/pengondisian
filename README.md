@@ -28,3 +28,25 @@ perintah yang sering di gunakan dalam penggunakan command line
 8. perintah mengedit file
 9. 
 10. 
+
+cheat sheet
+1. repository
+Tempat menyimpan project beserta riwayat perubahannya
+2. commit
+Menyimpan snapshot/perubahan project ke repository
+3. hash
+ID unik untuk setiap commit
+4. checkout
+Berpindah ke commit atau branch tertentu
+5. branch
+Cabang pengembangan terpisah dari main project
+6. merge
+Menggabungkan branch ke branch lain
+7. remote
+Repository yang ada di server (misalnya GitHub)
+8. clone
+Meng-copy repository dari remote ke lokal
+9. push
+Mengirim commit dari lokal ke remote
+10. pull
+Mengambil update dari remote ke lokal
